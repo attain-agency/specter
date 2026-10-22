@@ -1,6 +1,6 @@
-# Harvey
+# Specter
 
-**An autonomous sales agent that runs on your Claude Code or Codex subscription.**
+**An autonomous sales agent that runs on your Claude Code subscription. Based on Harvey.**
 
 Harvey finds businesses worth selling to, learns something specific about each one, writes cold email that references it, sends it, reads the replies, and works the conversation toward a meeting. It runs on your machine, in a loop, on its own.
 
